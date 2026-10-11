@@ -29,3 +29,8 @@ This project demonstrates how to build and deploy a simple web application using
 
 ## Project Status
 Day 1: Repository created. Learning Git and GitHub.
+
+Day 2: Git and GitHub
+- Installed Git on Windows.
+- Learned Git status, add, commit, and push.
+- Practised tracking project changes.
